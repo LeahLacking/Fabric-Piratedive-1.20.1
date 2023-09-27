@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "piratedive",
+	"version": "${version}",
+	"name": "PirateDive",
+	"description": "knockoff sea of thieves fr",
+	"authors": [
+		"Leah :3"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "MIT",
+	"icon": "assets/piratedive/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.leah.piratedive.PirateDive"
+		],
+		"client": [
+			"net.leah.piratedive.PirateDiveClient"
+		],
+		"fabric-datagen": [
+			"net.leah.piratedive.PirateDiveDataGenerator"
+		]
+	},
+	"mixins": [
+		"piratedive.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.14.22",
+		"minecraft": "~1.20",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
