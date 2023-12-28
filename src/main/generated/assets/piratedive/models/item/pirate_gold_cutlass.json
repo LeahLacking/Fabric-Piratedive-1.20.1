@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "piratedive:item/pirate_gold_cutlass"
+  }
+}

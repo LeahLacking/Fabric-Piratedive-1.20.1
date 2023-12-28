@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "I": {
+      "item": "piratedive:clock_block"
+    },
+    "P": {
+      "item": "minecraft:birch_planks"
+    }
+  },
+  "pattern": [
+    "PPP",
+    "PIP",
+    "PPP"
+  ],
+  "result": {
+    "count": 3,
+    "item": "piratedive:birch_clock_block"
+  },
+  "show_notification": true
+}

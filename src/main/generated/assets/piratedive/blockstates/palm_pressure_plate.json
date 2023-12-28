@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "piratedive:block/palm_pressure_plate"
+    },
+    "powered=true": {
+      "model": "piratedive:block/palm_pressure_plate_down"
+    }
+  }
+}

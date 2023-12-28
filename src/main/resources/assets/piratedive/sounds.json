@@ -1,0 +1,17 @@
+{
+  "motherfucking_clock": {
+    "subtitle": "sounds.piratedive.motherfucking_clock",
+    "sounds": [
+      "piratedive:motherfucking_clock"
+    ]
+  },
+  "wellerman": {
+    "sounds": [
+      {
+        "name": "piratedive:wellerman",
+        "stream": true
+      }
+    ]
+
+  }
+}

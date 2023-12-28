@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "piratedive:block/pirate_trading_post_top",
+    "side": "piratedive:block/pirate_trading_post_side"
+  }
+}

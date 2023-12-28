@@ -1,0 +1,70 @@
+{
+  "item.piratedive.dabloon": "Dabloon",
+  "item.piratedive.raw_pirate_gold_ore": "Raw Pirate's Gold Ore",
+  "item.piratedive.pirate_gold_ingot": "Pirate Gold Ingot",
+  "item.piratedive.pirate_tooth": "§ePirate Tooth",
+  "item.piratedive.diamond_pirate_tooth": "Diamond Pirate Tooth",
+  "item.piratedive.eye_of_the_storm": "§eEye of the Storm",
+  "block.piratedive.pirate_gold_ore": "Pirate Gold Ore",
+  "block.piratedive.deepslate_pirate_gold_ore": "Deepslate Pirate Gold Ore",
+  "item.piratedive.idle_eye_of_the_storm": "Idle Eye of the Storm",
+  "item.piratedive.pirate_gold_cutlass": "Pirate Gold Cutlass",
+  "item.piratedive.netherite_cutlass": "Netherite Cutlass",
+  "item.piratedive.storm_heart": "§5Storm's Heart",
+  "item.piratedive.anchor_head": "Anchor Head",
+  "item.piratedive.wellerman": "Wellerman Music Disc",
+  "item.piratedive.wellerman.desc": "Wellerman Instrumental - Algal The Bard",
+  "item.piratedive.pirate_hat": "Pirate Hat",
+
+
+  "block.piratedive.palm_log": "Palm Log",
+  "block.piratedive.palm_log_wood": "Palm Wood",
+  "block.piratedive.stripped_palm_log": "Stripped Palm Log",
+  "block.piratedive.stripped_palm_wood": "Stripped Palm Wood",
+  "block.piratedive.palm_planks": "Palm Planks",
+  "block.piratedive.palm_leaves": "Palm Leaves",
+  "block.piratedive.palm_sapling": "Palm Sapling",
+  "block.piratedive.clock_block": "Clock Block",
+  "block.piratedive.acacia_clock_block": " Acacia Clock Block",
+  "block.piratedive.bamboo_clock_block": "Bamboo Clock Block",
+  "block.piratedive.birch_clock_block": "Birch Clock Block",
+  "block.piratedive.crimson_clock_block": "Crimson Clock Block",
+  "block.piratedive.dark_oak_clock_block": "Dark Oak Clock Block",
+  "block.piratedive.jungle_clock_block": "Jungle Clock Block",
+  "block.piratedive.oak_clock_block": "Oak Clock Block",
+  "block.piratedive.palm_clock_block": "Palm Clock Block",
+  "block.piratedive.spruce_clock_block": "Spruce Clock Block",
+  "block.piratedive.warped_clock_block": "Warped Clock Block",
+  "block.piratedive.mangrove_clock_block": "Mangrove Clock Block",
+  "block.piratedive.pirate_trading_post": "Pirate Trading Post",
+  "block.piratedive.palm_stairs": "Palm Stairs",
+  "block.piratedive.palm_slab": "Palm Slab",
+  "block.piratedive.palm_fence": "Palm Fence",
+  "block.piratedive.palm_fence_gate": "Palm Fence Gate",
+  "block.piratedive.palm_door": "Palm Door",
+  "block.piratedive.palm_trapdoor": "Palm Trapdoor",
+  "block.piratedive.palm_button": "Palm Button",
+  "block.piratedive.palm_pressure_plate": "Palm Pressure Plate",
+  "item.piratedive.oxygen_tank": "Oxygen Tank",
+  "block.piratedive.pirate_trading_post": "Pirate Trading Post",
+  "entity.minecraft.villager.pirate_trader": "Pirate Trader",
+  "block.piratedive.raw_pirate_gold_ore_block": "Raw Pirate Gold Ore Block",
+  "block.piratedive.pirate_gold_block": "Pirate Gold Block",
+
+
+  "item.piratedive.diving_helmet": "Diving Mask",
+  "item.piratedive.diving_chestplate": "Diving Suit",
+  "item.piratedive.diving_leggings": "Diving Leggings",
+  "item.piratedive.diving_boots": "Diving Boots",
+  "item.piratedive.pirate_cloth": "Pirate Cloth",
+
+
+
+  "sounds.piratedive.motherfucking_clock": "BITCH, MOTHERFUCKING CLOCK",
+
+
+
+
+
+  "itemgroup.piratedive": "PirateDive"
+}

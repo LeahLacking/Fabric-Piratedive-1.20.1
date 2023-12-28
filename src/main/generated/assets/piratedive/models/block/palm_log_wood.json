@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "piratedive:block/palm_log",
+    "side": "piratedive:block/palm_log"
+  }
+}

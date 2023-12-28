@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/stairs",
+  "textures": {
+    "bottom": "piratedive:block/palm_planks",
+    "side": "piratedive:block/palm_planks",
+    "top": "piratedive:block/palm_planks"
+  }
+}
